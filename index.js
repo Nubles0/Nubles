@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["“A selva não pertence ao mais forte, mas ao sóbrio, habilidoso e resistente”.","“As amizades forjadas nas agruras da selva, jamais fenecem”."];
+const statusMessages = ["Tudo pela Amazônia! Selva!"];
 
 
 let currentIndex = 0;
